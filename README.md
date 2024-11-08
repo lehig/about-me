@@ -4,7 +4,7 @@ I have been programming since I was 14 years old. I've been interested in many t
 
 Theses are some of the projects that I've accomplished over the years. I've done a wide range of projects from simple games, to training LLMs, to creating an encryption/decrytion program. I think machine learning is a fascinating new field, which is why I am majoring in Computer Science with an emphasis in Machine Learning and Algorithms.
 
-If you have any questions about any of my projects feel free [to reach out](/ContactMe.md).
+If you have any questions about any of my projects feel free [to reach out](/contactme.html).
 
 # Projects
 
