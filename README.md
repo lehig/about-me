@@ -1,6 +1,14 @@
 # About Me
 
-I have been programming since I was 14 years old. I've been interested in many topics in computer science and it is a wide field that has lots of opportunities for exploration. My favorite part of programming is finding creative solutions for complex problems. It fascinates me that from simple zeroes and ones, logic gates, computers have the ability to create incredibly realistic games, they can predict sentences that make sense into existance, and they can keep all of that stored in memory.
+I’ve been programming since I was 14 years old, and ever since then, I haven’t stopped learning and creating. What started as a curiosity for how code works has grown into a lifelong passion for building systems that are efficient, secure, and meaningful.
+
+I’m currently pursuing a B.S. in Computer Science with an emphasis in Algorithms and Machine Learning at Brigham Young University–Idaho, where I’ve gained a deep understanding of how math, logic, and good software design come together to solve real-world problems.
+
+Recently, I interned as a Software Engineer at BoomID, where I developed cloud-based systems using Go and AWS to analyze photo metadata for biometric authentication and designed a secure “lock box” for encrypted file sharing. Through that experience, I discovered how much I enjoy bridging front-end, back-end, and cloud architecture to deliver full solutions.
+
+Beyond the technical side, I’ve also worked in customer-facing roles where I learned the importance of empathy, clear communication, and teamwork—skills that now influence how I approach both people and code.
+
+I’m passionate about writing clean, maintainable code, continuously improving my craft, and collaborating on projects that make a difference. I’m currently working on several personal projects involving Go, React, and AWS, with the goal of refining my skills in full-stack and cloud-native development.
 
 Theses are some of the projects that I've accomplished over the years. I've done a wide range of projects from simple games, to training LLMs, to creating an encryption/decrytion program. I think machine learning is a fascinating new field, which is why I am majoring in Computer Science with an emphasis in Machine Learning and Algorithms.
 
